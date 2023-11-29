@@ -1,5 +1,7 @@
 # Toph.co Online Judge Solutions
 
+## Find other OJ solution form [All solution](https://github.com/Jakiur1234/Competitive-Programming#solved-online-judge-problems)
+
 ## Guidelines for Understanding the Solutions:
 
 1. **Brush Up on Math Skills:**
